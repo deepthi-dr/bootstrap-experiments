@@ -1,4 +1,14 @@
+@media (max-width: 100px) {
+    .text-left-xs {
+        text-align: center;
+    }
+}
 
+@media (min-width: 50px) {
+    .text-center-lg {
+        text-align: right;
+    }
+}
 
 
     
